@@ -1,0 +1,8 @@
+ProcessedData/
+TrainingData/
+TestData/
+FinalData/
+TestPredictions/
+
+ReadMe.txt
+XVisualizeData.m
